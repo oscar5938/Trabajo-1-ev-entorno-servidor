@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A8-PC100\\Desktop\\Trabajo 1º ev entorno servidor\\Trabajo 1º ev entorno servidor.csproj",
-      "projectName": "Trabajo 1º ev entorno servidor",
-      "projectPath": "C:\\Users\\A8-PC100\\Desktop\\Trabajo 1º ev entorno servidor\\Trabajo 1º ev entorno servidor.csproj",
+      "projectUniqueName": "D:\\DarioC\\daw2-svalero\\EntornoServidor\\eva1\\Projects\\Trabajo-1-ev-entorno-servidor\\beatstars.csproj",
+      "projectName": "beatstars",
+      "projectPath": "D:\\DarioC\\daw2-svalero\\EntornoServidor\\eva1\\Projects\\Trabajo-1-ev-entorno-servidor\\beatstars.csproj",
       "packagesPath": "C:\\Users\\A8-PC100\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A8-PC100\\Desktop\\Trabajo 1º ev entorno servidor\\obj\\",
+      "outputPath": "D:\\DarioC\\daw2-svalero\\EntornoServidor\\eva1\\Projects\\Trabajo-1-ev-entorno-servidor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A8-PC100\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

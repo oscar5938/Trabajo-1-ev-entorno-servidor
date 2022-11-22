@@ -6,14 +6,18 @@ namespace beatpeak.Clases
     {
         private int ID { get; }
         public string Nombre { get; }
+        private string Email { get; }
         private decimal Cartera { get; set; }
         public boolean Status { get; set; }
 
         public DateTime FechaCreacion { get; }
         public string Rol { get; set; }
 
-        public List<Beat> ListaBeatsFavs { get; set;}
-        public List<Beat> ListaBeatsPublicados{get; set;}
+        private List<Beat> ListaBeatsFavs { get; set;}
+        private List<Beat> ListaBeatsPublicados{get; set;}
+        private List<Beat> ListaBeatsComprados { get; }
+        private List<Compra> ListaCompras { get; }
+
         private static int NumeroID=0;
         public Usuario(string Nombre)
         {
